@@ -4,6 +4,8 @@
 
 Реализован REST API. Стандартный CRUD
 
+Использованы web-API И  Dipendence injection
+
 Минимальная валидация входных данных
 
 Проект решения .sln находится в папке WearoSkillbox. Это .Host. Нужно поменять SqlConnection в файле appsettings.json на свой.
